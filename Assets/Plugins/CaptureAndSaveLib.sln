@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB9-8B4A-11D0-8D11-00A0C91BC942}") = "CaptureAndSaveLib", "CaptureAndSaveLib.dll", "{CE8B6836-9ECB-4C16-A8E5-28C6680043F5}"
+	ProjectSection(MonoDevelopProperties) = preProject
+		name = CaptureAndSaveLib
+		Configurations = $0
+		$0.Configuration = $1
+		$1.name = Default
+		$1.OutputPath = .\
+		$1.ctype = ProjectConfiguration
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Default|Any CPU = Default|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CE8B6836-9ECB-4C16-A8E5-28C6680043F5}.Default|Any CPU.ActiveCfg = Default|Any CPU
+		{CE8B6836-9ECB-4C16-A8E5-28C6680043F5}.Default|Any CPU.Build.0 = Default|Any CPU
+	EndGlobalSection
+EndGlobal

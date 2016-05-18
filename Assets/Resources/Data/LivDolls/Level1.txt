@@ -1,0 +1,5 @@
+﻿Amount = 9
+Size = 180
+Col = 3
+Row = 3
+Iterations = 15

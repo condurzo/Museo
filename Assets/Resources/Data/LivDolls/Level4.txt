@@ -1,0 +1,5 @@
+﻿Amount = 16
+Size = 135
+Col = 4
+Row = 4
+Iterations = 40

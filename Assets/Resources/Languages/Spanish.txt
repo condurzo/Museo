@@ -1,0 +1,24 @@
+HelpTitleMsg = Como Jugar?
+HelpInfoMsg =  Arrastra las piezas\n al espacio en negro\n para mover
+SplashPlayMsg = Jugar
+SplashHelpMsg = Ayuda
+SplashTitleMsg = IMAGEN\n PERFECTA
+ExitYesMsg = Si
+ExitNoMsg = No
+ExitInfoMsg = Seguro que\n quiere salir?
+EndRestartButtonMsg = Jugar otra vez!
+EndWinMsg = LISTO PARA MÁS?...
+EndTitleMsg = Eres Fantastico!
+
+
+//HelpTitleMsg = HOW TO PLAY?
+//HelpInfoMsg =  Drag the pieces\nto the black space\n to move them around
+//SplashPlayMsg = Play
+//SplashHelpMsg = Help
+//SplashTitleMsg = IMAGEN\nPERFECTA
+//ExitYesMsg = Yes
+//ExitNoMsg = No
+//ExitInfoMsg = Are you sure you\nwant to quit?
+//EndRestartButtonMsg = Play Again!
+//EndWinMsg = READY FOR MORE?\n ASK ME HOW...
+//EndTitleMsg = YOU ROCK!
